@@ -1,0 +1,11 @@
+{
+  "name": "videotube",
+  "version": "1.0.0",
+  "description": "Coding with Vanila and Node JS",
+  "main": "index.js",
+  "author": "Hong Gi Pyo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
